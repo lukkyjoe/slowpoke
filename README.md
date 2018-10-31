@@ -1,2 +1,2 @@
 # slowpoke
-it don't matter for this repo
+Quick example on how to build a chrome extension. 
